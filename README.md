@@ -1,2 +1,2 @@
-# Facebook
-Its just clone of the facebook
+# Twitter
+Its just clone of the twitter
