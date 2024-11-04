@@ -1,0 +1,30 @@
+.main-container {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.main-container footer {
+    width: 100%;
+    padding: 1%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+    font-size: 1em;
+}
+
+.main-container footer a {
+    color: rgb(113, 118, 123);
+    text-decoration: none;
+    font-family: TwitterChirp, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.main-container footer span {
+    color: rgb(113, 118, 123);
+    text-decoration: none;
+    font-family: TwitterChirp, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
